@@ -1,0 +1,24 @@
+Cordial Saludo, dicho proyecto se basa en la creación de un bot de mensajería a través de WhatsApp,
+en donde la mayoria de procedimientos se verán explicados y detallados en codigo  y en textopara un
+mejor entendimiento del mismo. 
+
+* ¿Que es un bot?
+
+Un bot es un programa informático que efectúa automáticamente tareas reiterativas mediante Internet 
+a través de una cadena de comandos o funciones autónomas previas para asignar un rol establecido.
+
+* ¿Que es Python?
+
+Python es un lenguaje de escritura rápido, escalable, robusta y de código abierto, ventajas que hacen 
+de Python un aliado perfecto para la Inteligencia Artificial. Permite plasmar ideas complejas con unas pocas 
+líneas de código, lo que no es posible con otros lenguajes.
+
+¿Qué es selenium y para que funciona?
+
+Selenium es un entorno de pruebas de software para aplicaciones basadas en la web. Selenium provee una 
+herramienta de grabar/reproducir para crear pruebas sin usar un lenguaje de scripting para pruebas 
+(Selenium IDE). Incluye también un lenguaje específico de dominio para pruebas (Selenese) para escribir 
+pruebas en un amplio número de lenguajes de programación populares incluyendo Java, C#, Ruby, Groovy, Perl, 
+Php y Python. Las pruebas pueden ejecutarse entonces usando la mayoría de los navegadores web modernos en 
+diferentes sistemas operativos como Windows, Linux y OSX.
+
