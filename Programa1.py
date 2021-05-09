@@ -7,7 +7,7 @@ import os, time
 #Con el webdriver se selecciona la ruta donde se alberga el mismo. 
 driver = webdriver.Chrome(executable_path=r"C:\driverchrome\chromedriver.exe")
 
-#Automaticamente el driver acepta la solicitud de ingresar, en este caso, a Python.
+#Este metodo navegará a una paguna dada por la URL. Espera hasta que se cargue. 
 driver.get("http://www.python.org")
 time.sleep(10)
 
