@@ -15,10 +15,16 @@ time.sleep(5)
 
 btn = driver.find_elements_by_xpath("//*[@id='action-button']")[0]
 btn.click()
-time.sleep(5)
+time.sleep(3)
 
 btn = driver.find_element_by_xpath("//*[@id='fallback_block']/div/div/a")
 btn.click()
-time.sleep(5)
+time.sleep(3)
+
+btn = driver.find_element_by_xpath("//*[@id='main']/footer/div[1]/div[3]")[0]
+btn.click()
+time.sleep(3)
+
+print (" --fin de Bot--")
 
 driver.close()
