@@ -1,0 +1,5 @@
+- Primero se coloca el enlace de whatsapp.
+- Segundo, se añade el indicativo del pais + numero de celular.
+- Tercero, seguido, se agrega el mensaje que deseamos enviar. 
+
+https://wa.me/573122787169?text=Hola%Mundo
