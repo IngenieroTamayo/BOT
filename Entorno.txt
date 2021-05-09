@@ -1,0 +1,6 @@
+1. Instalar Python y pip (incluido dentro de Python).
+
+2. Instalar Selenium. (IDE)
+
+3. Instalar Chromedriver (controlador segun navegador, depende del navegador que uses)
+
