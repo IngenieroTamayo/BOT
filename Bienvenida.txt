@@ -21,4 +21,3 @@ herramienta de grabar/reproducir para crear pruebas sin usar un lenguaje de scri
 pruebas en un amplio número de lenguajes de programación populares incluyendo Java, C#, Ruby, Groovy, Perl, 
 Php y Python. Las pruebas pueden ejecutarse entonces usando la mayoría de los navegadores web modernos en 
 diferentes sistemas operativos como Windows, Linux y OSX.
-
